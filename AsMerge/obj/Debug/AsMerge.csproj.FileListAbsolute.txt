@@ -1,0 +1,13 @@
+G:\AsMerge\AsMerge\AsMerge\bin\Debug\AsMerge.exe.config
+G:\AsMerge\AsMerge\AsMerge\bin\Debug\AsMerge.exe
+G:\AsMerge\AsMerge\AsMerge\bin\Debug\AsMerge.pdb
+G:\AsMerge\AsMerge\AsMerge\bin\Debug\dnlib.dll
+G:\AsMerge\AsMerge\AsMerge\bin\Debug\Mono.Cecil.dll
+G:\AsMerge\AsMerge\AsMerge\bin\Debug\Mono.Cecil.Mdb.dll
+G:\AsMerge\AsMerge\AsMerge\bin\Debug\Mono.Cecil.Pdb.dll
+G:\AsMerge\AsMerge\AsMerge\bin\Debug\Mono.Cecil.Rocks.dll
+G:\AsMerge\AsMerge\AsMerge\obj\Debug\AsMerge.csprojAssemblyReference.cache
+G:\AsMerge\AsMerge\AsMerge\obj\Debug\AsMerge.csproj.CoreCompileInputs.cache
+G:\AsMerge\AsMerge\AsMerge\obj\Debug\AsMerge.csproj.CopyComplete
+G:\AsMerge\AsMerge\AsMerge\obj\Debug\AsMerge.exe
+G:\AsMerge\AsMerge\AsMerge\obj\Debug\AsMerge.pdb
